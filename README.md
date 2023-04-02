@@ -1,4 +1,3 @@
-#loop
 Loop dalam Bahasa Indonesia artinya putaran. Dalam JavaScript, maksudnya adalah perulangan. Jadi, loop adalah sekumpulan kode yang akan dijalankan berulang kali sampai batas yang ditentukan.
 Ada 5 jenis loop di JavaScript, yaitu
 - for
